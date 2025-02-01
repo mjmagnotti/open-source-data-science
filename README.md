@@ -100,7 +100,7 @@ _Students who already know basic programming in any language can skip this first
 
 ✅ [Python for Data Science, AI, and Development](https://www.coursera.org/account/accomplishments/certificate/GN2G5PY2VV0J)
 
-[Introduction to Computational Thinking and Data Science][https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/]
+[Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
 [Introduction to Computational Thinking and Data Science](https://github.com/mjmagnotti/open-source-data-science/blob/master/IntroCompThinkAndDataSci.md)
 
